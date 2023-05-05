@@ -1,0 +1,1 @@
+This repo contains my personal scripts for the Mozaic MIDI processing app for iOS/iPadOS.
